@@ -15,3 +15,5 @@ TP3: [Decision Trees](https://github.com/barbarafreixo20/DataMiningPortfolio/tre
 TP4: [Naive Bayes algorithm and Prism](https://github.com/barbarafreixo20/DataMiningPortfolio/tree/main/TP4)
 
 TP5: [Apriori algorithm](https://github.com/barbarafreixo20/DataMiningPortfolio/tree/main/TP5)
+
+TP6: [Multilayer perceptron (MLP)](https://github.com/barbarafreixo20/DataMiningPortfolio/tree/main/TP6)
